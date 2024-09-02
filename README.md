@@ -3,7 +3,7 @@
 This project is a frontend and backend application designed for specific purpose. The application allows users to create, manage, and analyze nodes and edges in a pipeline, integrating a React frontend with a FastAPI backend.
 
 ## Live Demo
-You can view the live application at: [[Your Live URL Here]](https://react-flow-frontend.vercel.app/)
+You can view the live application at: [[Live URL]](https://react-flow-frontend.vercel.app/)
 
 ## Project Overview
 The project consists of four main parts, which are detailed below:
